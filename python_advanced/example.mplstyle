@@ -1,0 +1,42 @@
+figure.figsize : 6,4
+
+# Line Colors
+# These are based on cbrewer with some modifications
+axes.prop_cycle    : cycler('color',['5c92be','e94749','70bf6e','ff9832','ac71b5','b77752','f89acb','adadad','d7c78f'])
+# Map colors
+image.cmap   : Spectral_r
+
+# Set x axis
+xtick.direction : in
+xtick.major.size : 3
+xtick.major.width : 0.5
+xtick.minor.size : 1.5
+xtick.minor.width : 0.5
+xtick.minor.visible :   True
+xtick.top : True
+
+# Set y axis
+ytick.direction : in
+ytick.major.size : 3
+ytick.major.width : 0.5
+ytick.minor.size : 1.5
+ytick.minor.width : 0.5
+ytick.minor.visible :   True
+ytick.right : True
+
+# Set line widths
+axes.linewidth : 0.5
+grid.linewidth : 0.5
+lines.linewidth : 2
+
+# Always save as 'tight'
+savefig.bbox : tight
+savefig.pad_inches : 0.05
+
+# Use serif fonts
+# font.serif : Times New Roman
+# font.family : serif
+font.size : 12
+
+axes.formatter.limits : -3, 3       # When to use scientific notation
+axes.formatter.use_mathtext : True  # False:1e6 vs True: 1 \times 10^6
