@@ -1,4 +1,4 @@
-# Machine learning For Collider Physics Project for SSI 2023
+# Machine Learning For Colliders Project for SSI 2023
 
 This project will explore LHC Jet data sets and enable participants to
 develop ML models for jets, such as for classification or generative
