@@ -12,7 +12,7 @@ by Jennifer Ngaduiba.
 
 ## Prerequisites
 
-Prerequisites for the course include basic knowledge of GitHub, Colab and python. It is thus required before the course to go through [these](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/0.Prerequisites.pdf) slides as well as the two python basics notebooks: 
+Prerequisites for the course include basic knowledge of GitHub, Colab and python. It is thus required before the course to go through [these](https://github.com/makagan/SSI_Projects/blob/main/slides/GettingStarted.pdf) slides as well as the two python basics notebooks: 
 
 * [`python_intro_part1.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/python_basics/python_intro_part1.ipynb)
     * Quickstart
