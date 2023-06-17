@@ -41,6 +41,12 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
 
 ## Machine Learning Tutorials
 
+### Introduction to PyTorch
+
+* Intro to PyTorch: [`pytorch_intro.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_basics/pytorch_intro.ipynb) and [`pytorch_NeuralNetworks.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_basics/pytorch_NeuralNetworks.ipynb)
+* Intro to PyTorch Geometric (PyG): [`6.IntroToPyG.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/neural-networks/6.IntroToPyG.ipynb)
+
+
 ### Hands-on: basic NN with Keras for LHC jet tagging task
 
 * Introduction to dataset and tasks [slides: [3.LHCJetTaggingIntro.pdf](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/3.LHCJetTaggingIntro.pdf)]
@@ -53,8 +59,6 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
 ### Hands-on: RNN and GNN implementations for different tasks
 
 * GRU for LHC jet tagging task: [`5.JetTaggingRNN.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/neural-networks/5.JetTaggingRNN.ipynb)
-* Intro to PyTorch: [`pytorch_intro.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_basics/pytorch_intro.ipynb) and [`pytorch_NeuralNetworks.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_basics/pytorch_NeuralNetworks.ipynb)
-* Intro to PyTorch Geometric (PyG): [`6.IntroToPyG.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/neural-networks/6.IntroToPyG.ipynb)
 * Node classification with PyG on Cora citation dataset: [`7.KCNodeClassificationPyG.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/neural-networks/7.KCNodeClassificationPyG.ipynb)
 * Graph classification with PyG on molecular prediction dataset: [`8.TUGraphClassification.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/neural-networks/8.TUGraphClassification.ipynb)
 * Graph classification with PyG on LHC jet dataset: [`9.JetTaggingGCN.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/9.JetTaggingGCN.ipynb)
