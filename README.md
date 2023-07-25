@@ -62,9 +62,13 @@ Note that your project might well benefit from techniques you pick up by looking
 ### General: Introduction to PyTorch
 
 * Intro to PyTorch: [`pytorch_intro.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_basics/pytorch_intro.ipynb) and [`pytorch_NeuralNetworks.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_basics/pytorch_NeuralNetworks.ipynb)
-* Intro to PyTorch Geometric (PyG): [`6.IntroToPyG.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/neural-networks/6.IntroToPyG.ipynb)
 
 
+### General: PyTorch Geometric (PyG)
+* Intro to PyTorch Geometric: [`1.IntroToPyG.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_geometric_intro/1.IntroToPyG.ipynb)
+* Node classification with PyG on Cora citation dataset: [`2.KCNodeClassificationPyG.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_geometric_intro/3.KCNodeClassificationPyG.ipynb)
+* Graph classification with PyG on molecular prediction dataset: [`3.TUGraphClassification.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_geometric_intro/3.TUGraphClassification.ipynb)
+* 
 ### Energy Frontier: Basic NN with Keras for LHC jet tagging task
 
 * Introduction to dataset and tasks [slides: [3.LHCJetTaggingIntro.pdf](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/3.LHCJetTaggingIntro.pdf)]
@@ -77,20 +81,12 @@ Note that your project might well benefit from techniques you pick up by looking
 ### Energy Frontier: RNN and GNN implementations for different tasks
 
 * GRU for LHC jet tagging task: [`5.JetTaggingRNN.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/neural-networks/5.JetTaggingRNN.ipynb)
-* Node classification with PyG on Cora citation dataset: [`7.KCNodeClassificationPyG.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/neural-networks/7.KCNodeClassificationPyG.ipynb)
-* Graph classification with PyG on molecular prediction dataset: [`8.TUGraphClassification.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/neural-networks/8.TUGraphClassification.ipynb)
 * Graph classification with PyG on LHC jet dataset: [`9.JetTaggingGCN.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/9.JetTaggingGCN.ipynb)
 
 
  ### Energy Frontier: Transformers
  
 * Transformer model for LHC jet tagging with tensorflow: [`10.JetTaggingTransformer.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/10.JetTaggingTransformer.ipynb)
-
-
- ### Energy Frontier: Generative Models
- 
-* Generate data with vanilla GAN: [`11.VanillaGAN_FMNIST.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/11.VanillaGAN_FMNIST.ipynb)
-* Generate data with VAE: [`12.VAE_FMNIST.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/12.VAE_FMNIST.ipynb)
 
 
 
