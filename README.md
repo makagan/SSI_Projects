@@ -68,7 +68,7 @@ Note that your project might well benefit from techniques you pick up by looking
 * Intro to PyTorch Geometric: [`1.IntroToPyG.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_geometric_intro/1.IntroToPyG.ipynb)
 * Node classification with PyG on Cora citation dataset: [`2.KCNodeClassificationPyG.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_geometric_intro/3.KCNodeClassificationPyG.ipynb)
 * Graph classification with PyG on molecular prediction dataset: [`3.TUGraphClassification.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/pytorch_geometric_intro/3.TUGraphClassification.ipynb)
-* 
+  
 ### Energy Frontier: Basic NN with Keras for LHC jet tagging task
 
 * Introduction to dataset and tasks [slides: [3.LHCJetTaggingIntro.pdf](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/3.LHCJetTaggingIntro.pdf)]
