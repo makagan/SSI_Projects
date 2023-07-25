@@ -85,8 +85,8 @@ Note that your project might well benefit from techniques you pick up by looking
 * Transformer model for LHC jet tagging with tensorflow: [`7.JetTaggingTransformer.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/7.JetTaggingTransformer.ipynb)
 
 ### Energy Frontier: Anomaly Detection for LHC jets
-* Anomaly detection for LHC jets with AE [`8.JetAnomalyDetectionAE.ipynb`](https://github.com/SSI_Projects/blob/main/jet_notebooks/8.JetAnomalyDetectionAE.ipynb)
-* Anomaly detection for LHC jets with VAE [`9.JetAnomalyDetectionVAE.ipynb`](https://github.com/SSI_Projects/blob/main/jet_notebooks/9.JetAnomalyDetectionVAE.ipynb)
+* Anomaly detection for LHC jets with AE [`8.JetAnomalyDetectionAE.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/8.JetAnomalyDetectionAE.ipynb)
+* Anomaly detection for LHC jets with VAE [`9.JetAnomalyDetectionVAE.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/9.JetAnomalyDetectionVAE.ipynb)
 
 
 
