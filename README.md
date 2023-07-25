@@ -71,18 +71,18 @@ Note that your project might well benefit from techniques you pick up by looking
   
 ### Energy Frontier: Basic NN with Keras for LHC jet tagging task
 
-* Introduction to dataset and tasks [slides: [3.LHCJetTaggingIntro.pdf](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/3.LHCJetTaggingIntro.pdf)]
+* Introduction to dataset and tasks [slides: [3.LHCJetTaggingIntro.pdf](https://github.com/makagan/SSI_Projects/blob/main/slides/GettingStarted.pdf)]
 * Dataset exploration: [`1.LHCJetDatasetExploration.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/1.LHCJetDatasetExploration.ipynb)
-* MLP implementation with Keras: [`2.JetTaggingMLP.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/2.JetTaggingMLP.ipynb)
-* Conv2D implementation with Keras: [`3.JetTaggingConv2D.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/3.JetTaggingConv2D.ipynb)
-* Conv1D implementation with Keras: [`4.JetTaggingConv1D.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/4.JetTaggingConv1D.ipynb)
+* MLP implementation with Keras: [`2.JetTaggingMLP.ipynb`](https://github.com/SSI_Projects/blob/main/jet_notebooks/2.JetTaggingMLP.ipynb)
+* Conv2D implementation with Keras: [`3.JetTaggingConv2D.ipynb`](https://github.com/SSI_Projects/blob/main/jet_notebooks/3.JetTaggingConv2D.ipynb)
+* Conv1D implementation with Keras: [`4.JetTaggingConv1D.ipynb`](https://github.com/SSI_Projects/blob/main/jet_notebooks/4.JetTaggingConv1D.ipynb)
 
 
 ### Energy Frontier: RNN, GNN and Transformer implementations for  LHC jet tagging task
 
 * GRU for LHC jet tagging task: [`5.JetTaggingRNN.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/neural-networks/5.JetTaggingRNN.ipynb)
-* Graph classification with PyG on LHC jet dataset: [`9.JetTaggingGCN.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/9.JetTaggingGCN.ipynb)
-* Transformer model for LHC jet tagging with tensorflow: [`10.JetTaggingTransformer.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/10.JetTaggingTransformer.ipynb)
+* Graph classification with PyG on LHC jet dataset: [`6.JetTaggingGCN.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/6.JetTaggingGCN.ipynb)
+* Transformer model for LHC jet tagging with tensorflow: [`7.JetTaggingTransformer.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/7.JetTaggingTransformer.ipynb)
 
 
 
