@@ -11,6 +11,8 @@ On the last Thursday of the school, we will hear very short presentations from e
 
 For maximum community value, project teams should plan to submit their project notebook back to this repo via a pull request, so everyone can benefit from their hard work. Fork this repo and get to work!
 
+Have a look at the [`Getting Started`](https://github.com/makagan/SSI_Projects/blob/main/slides/GettingStarted.pdf) slides to get started with Github and Google Colab
+
 ## The Challenges
 
 **Energy Frontier:** here, the challenge is to develop ML models for LHC jets.
