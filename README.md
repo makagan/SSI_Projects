@@ -72,11 +72,11 @@ Note that your project might well benefit from techniques you pick up by looking
 
 ### Energy Frontier: Basic NN with Keras for LHC jet tagging task
 
-* Introduction to dataset and tasks [slides: [3.LHCJetTaggingIntro.pdf](https://github.com/makagan/SSI_Projects/blob/main/slides/GettingStarted.pdf)]
+* Introduction to dataset and tasks [slides: [GettingStarted.pdf](https://github.com/makagan/SSI_Projects/blob/main/slides/GettingStarted.pdf)]
 * Dataset exploration: [`1.LHCJetDatasetExploration.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/1.LHCJetDatasetExploration.ipynb)
-* MLP implementation with Keras: [`2.JetTaggingMLP.ipynb`](https://github.com/SSI_Projects/blob/main/jet_notebooks/2.JetTaggingMLP.ipynb)
-* Conv2D implementation with Keras: [`3.JetTaggingConv2D.ipynb`](https://github.com/SSI_Projects/blob/main/jet_notebooks/3.JetTaggingConv2D.ipynb)
-* Conv1D implementation with Keras: [`4.JetTaggingConv1D.ipynb`](https://github.com/SSI_Projects/blob/main/jet_notebooks/4.JetTaggingConv1D.ipynb)
+* MLP implementation with Keras: [`2.JetTaggingMLP.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/2.JetTaggingMLP.ipynb)
+* Conv2D implementation with Keras: [`3.JetTaggingConv2D.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/3.JetTaggingConv2D.ipynb)
+* Conv1D implementation with Keras: [`4.JetTaggingConv1D.ipynb`](https://github.com/makagan/SSI_Projects/blob/main/jet_notebooks/4.JetTaggingConv1D.ipynb)
 
 
 ### Energy Frontier: RNN, GNN and Transformer implementations for  LHC jet tagging task
