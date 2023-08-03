@@ -20,7 +20,7 @@ These could be for classification, or generative modeling.
 We provide a dataset to explore that includes various boosted jets, including high-level jet features, jet-images, and per-particle features.
 Many thanks to SSI lecturer Jennifer Ngadubia, from whose recent [`course`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/) the materials for this challenge are drawn!
 
-**Cosmic Frontier:** here, the challenge is to develop methods for mapping Dark Matter in the Universe from weak lensing data, after exploring some related inverse problems using LSST-like imaging data. We provide suitable weak lensing dataset.  
+**Cosmic Frontier:** here, the challenge is to develop methods for mapping Dark Matter in the Universe from weak lensing data, after exploring some related inverse problems using LSST-like imaging data. We provide suitable weak lensing datasets.
 Many thanks to SSI Lecturer François Lanusse for the materials for this challenge, which are based on the materials used at the [Quarks2Cosmos conference](https://github.com/EiffL/Quarks2CosmosDataChallenge/tree/colab)!
 
 **Intensity Frontier:** here, the challenge is to...
